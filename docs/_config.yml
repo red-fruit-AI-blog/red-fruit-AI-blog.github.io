@@ -18,7 +18,7 @@ email: schoiaj@cse.ust.hk
 description: >- # this means to ignore newlines until "baseurl:"
   "Red Fruit AI Blog" is an archive blog of our weekly paper reading group.
 domain: red-fruit-ai-blog.github.io
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://red-fruit-ai-blog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  red-fruit-AI-blog
 

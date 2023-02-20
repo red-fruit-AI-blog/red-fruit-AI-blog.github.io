@@ -21,7 +21,7 @@ markdown post:
 Alternatively, you can simply provide the link, using:
 
 {% highlight markdown %}
-[link name](/docs/assets/pdf/FILENAME.pdf)
+[link name](assets/pdf/FILENAME.pdf)
 {% endhighlight %}
 
-[Attention is All You Need](/docs/assets/pdf/NIPS-2017-attention-is-all-you-need-Paper.pdf)
+[Attention is All You Need](/assets/pdf/NIPS-2017-attention-is-all-you-need-Paper.pdf)
