@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Big NLP Trends from 2016 to 2022"
-date:   2023-02-21 09:00:00 +0800
+date:   2023-02-21 09:00:01 +0800
 categories: NLP LM AI ML DeepLearning Trends
 ---
 
