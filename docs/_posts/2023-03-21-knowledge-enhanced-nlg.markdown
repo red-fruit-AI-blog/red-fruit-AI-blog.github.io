@@ -10,12 +10,11 @@ categories: jekyll create
 The slides are from this [repo](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial).
 The presenter was [Wenhao Yu](https://wyu97.github.io/).
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/KENLG.pdf" width="100%" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/KENLG.pdf" width="100%" height="1000" type="application/pdf"></object>
 
 ### Reference
 
-{% highlight %}
-{% raw %}
+```
 @inproceedings{10.1145/3539597.3572720,
 author = {Zhu, Chenguang and Xu, Yichong and Ren, Xiang and Lin, Bill Yuchen and Jiang, Meng and Yu, Wenhao},
 title = {Knowledge-Augmented Methods for Natural Language Processing},
@@ -33,5 +32,4 @@ keywords = {language generation, knowledge-augmented methods, natural language u
 location = {Singapore, Singapore},
 series = {WSDM '23}
 }
-{% endraw %}
-{% endhighlight %}
+```
